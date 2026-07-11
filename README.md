@@ -21,4 +21,7 @@ jupyter notebook einthoven_triangle.ipynb
 - Lead I/II/III waveforms with animated or static (paused) time cursor
 - Built-in check that Einthoven's law (II = I + III) holds for every condition
 
+- <img width="647" height="317" alt="image" src="https://github.com/user-attachments/assets/c9130367-4436-479f-821f-286082c89251" />
+
+
 For education only — not a diagnostic tool.
